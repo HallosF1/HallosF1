@@ -12,9 +12,11 @@ AI & Data: Python (Machine Learning, Algorithmic Trading)
 Tools: Azure, Docker, SQL Server, MongoDB
 
 🛠 Projects in Progress
+
 Algo-Trader: A cryptocurrency trading bot utilizing sentiment analysis and ML forecasting.
 
 📫 Let's Connect
+
 Learning: Currently diving deeper into microservices architecture and high-performance systems.
 
 [**LinkedIn**](https://www.linkedin.com/in/halil-can-ak%C3%A7akaya-080959191/)
