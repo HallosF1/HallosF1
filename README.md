@@ -4,6 +4,7 @@ Hi there, I'm Halil! 🚀
 I am a final-year Computer Engineering student focused on building scalable backend systems and intelligent trading solutions. I love turning complex problems into clean, efficient code.
 
 💻 Tech Stack
+
 Backend: .NET (WebAPI, MVC, Microservices, CQRS), Python (FastAPI)
 
 AI & Data: Python (Machine Learning, LSTM, Algorithmic Trading)
