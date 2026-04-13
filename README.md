@@ -5,11 +5,11 @@ I am a final-year Computer Engineering student focused on building scalable back
 
 💻 Tech Stack
 
-Backend: .NET (WebAPI, MVC, Microservices, CQRS), Python (FastAPI)
+Backend: .NET (WebAPI, MVC, Microservices), Python (FastAPI)
 
-AI & Data: Python (Machine Learning, LSTM, Algorithmic Trading)
+AI & Data: Python (Machine Learning, Algorithmic Trading)
 
-Tools: Azure, Docker, SQL Server
+Tools: Azure, Docker, SQL Server, MongoDB
 
 🛠 Projects in Progress
 Algo-Trader: A cryptocurrency trading bot utilizing sentiment analysis and ML forecasting.
